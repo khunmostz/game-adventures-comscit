@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"ชั้น6กลาง","order":10,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":true,"name":"intro","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"ชั้น6ซ้าย","order":6,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":4,"expanded":true,"name":"R2602","order":7,"parentId":3,"scrollX":811,"scrollY":461},
+{"id":5,"expanded":true,"name":"ชั้น1กลาง","order":3,"parentId":0,"scrollX":811,"scrollY":603},
+{"id":6,"expanded":true,"name":"toilet M ซ้าย","order":8,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"toilet W ซ้าย","order":9,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":true,"name":"ชั้น6ขวา","order":16,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":9,"expanded":false,"name":"ห้องIT","order":14,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":false,"name":"toilet M กลาง","order":11,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":false,"name":"toilet W กลาง","order":12,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":12,"expanded":false,"name":"toilet M ขวา","order":17,"parentId":8,"scrollX":819,"scrollY":461},
+{"id":13,"expanded":false,"name":"toilet W ขวา","order":18,"parentId":8,"scrollX":819,"scrollY":461},
+{"id":14,"expanded":false,"name":"R2623","order":19,"parentId":8,"scrollX":811,"scrollY":461},
+{"id":15,"expanded":true,"name":"ทางเดิน","order":20,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":16,"expanded":false,"name":"toilet M ล่าง","order":4,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":17,"expanded":false,"name":"toilet W ล่าง","order":5,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":18,"expanded":false,"name":"ห้องอ.","order":13,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":19,"expanded":false,"name":"ห้อง2608","order":15,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":20,"expanded":false,"name":"endgame","order":2,"parentId":0,"scrollX":819,"scrollY":461}
+]
